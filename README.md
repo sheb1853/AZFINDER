@@ -93,3 +93,8 @@ When output is written to a text file:
 #### Notes
 - This script uses the Azure Autodiscover service to fetch related domains and the Azure OpenID Connect configuration to retrieve tenant information.
 - If Azure services are temporarily unavailable or the domain is not associated with Azure, the script may return partial or no data.
+
+#azure
+#subdomain-enumeration
+#azure-security
+#Security tool
