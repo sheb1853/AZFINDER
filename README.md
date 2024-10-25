@@ -27,7 +27,7 @@ AAAAAAA     Z     FFFFF     I    N N N  D    D EEEEE  RRRRR
 A     A    Z      F         I    N  NN  D    D E      R  R  
 A     A  ZZZZZZZ  F       IIIII  N   N  DDDDD  EEEEE  R   RR
 
-by timothians
+by timothians Shebin Mathew
 
 usage: az-finder.py [-h] [-d D] [-l L] [-o O]
 
